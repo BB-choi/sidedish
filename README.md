@@ -1,5 +1,9 @@
 # sidedish
 
+## ✅ preview
+
+![screenshot](https://user-images.githubusercontent.com/78826879/166107424-142f1202-edf3-42e5-abe6-f5899768c8f6.gif)
+
 ## 👪 팀원 소개
 
 ### 🙋‍♂️ ikjo(https://github.com/ikjo93)
